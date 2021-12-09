@@ -1,5 +1,5 @@
 {
-  "name": "supabase-vue-3",
+  "name": "supabase-vue",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
